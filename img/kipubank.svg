@@ -1,84 +1,96 @@
 <?xml version="1.0" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="293pt" height="400pt" viewBox="0.00 0.00 293.18 400.00">
-<g id="graph0" class="graph" transform="translate(19.359446110100166,372.01317893137764) scale(0.8863816991948693)" data-name="G">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512pt" height="400pt" viewBox="0.00 0.00 511.76 400.00">
+<g id="graph0" class="graph" transform="translate(4,396) scale(1)" data-name="G">
 
-<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-396 289.18,-396 289.18,4 -4,4" style=""/>
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-396 507.76,-396 507.76,4 -4,4" style=""/>
 <g id="clust1" class="cluster" data-name="clusterKipuBank">
 
-<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 265.18,-8 265.18,-8 271.18,-8 277.18,-14 277.18,-20 277.18,-20 277.18,-235 277.18,-235 277.18,-241 271.18,-247 265.18,-247 265.18,-247 20,-247 20,-247 14,-247 8,-241 8,-235 8,-235 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
-<text text-anchor="middle" x="142.59" y="-230.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">KipuBank</text>
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 483.76,-8 483.76,-8 489.76,-8 495.76,-14 495.76,-20 495.76,-20 495.76,-235 495.76,-235 495.76,-241 489.76,-247 483.76,-247 483.76,-247 20,-247 20,-247 14,-247 8,-241 8,-235 8,-235 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="251.88" y="-230.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">KipuBank</text>
 </g>
 <g id="clust2" class="cluster" data-name="cluster_01">
 
-<polygon fill="#2e3e56" stroke="black" points="10.53,-255 10.53,-384 263.12,-384 263.12,-255 10.53,-255" style=""/>
-<text text-anchor="middle" x="136.82" y="-367.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+<polygon fill="#2e3e56" stroke="black" points="37.7,-255 37.7,-384 340.52,-384 340.52,-255 37.7,-255" style=""/>
+<text text-anchor="middle" x="189.11" y="-367.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
 </g>
 <!-- KipuBank.&lt;Constructor&gt; -->
 <g id="node1" class="node" pointer-events="visible" data-name="KipuBank.&lt;Constructor&gt;">
 
-<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="83.53" cy="-196" rx="67.55" ry="18" style=""/>
-<text text-anchor="middle" x="83.53" y="-191.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="110.7" cy="-196" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="110.7" y="-191.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
 </g>
-<!-- KipuBank.deposit -->
-<g id="node2" class="node" pointer-events="visible" data-name="KipuBank.deposit">
+<!-- KipuBank.kipubank_deposit -->
+<g id="node2" class="node" pointer-events="visible" data-name="KipuBank.kipubank_deposit">
 
-<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="83.53" cy="-142" rx="38.86" ry="18" style=""/>
-<text text-anchor="middle" x="83.53" y="-137.8" font-family="Times,serif" font-size="14.00" style="">deposit</text>
+<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="110.7" cy="-142" rx="79.9" ry="18" style=""/>
+<text text-anchor="middle" x="110.7" y="-137.8" font-family="Times,serif" font-size="14.00" style="">kipubank_deposit</text>
 </g>
-<!-- KipuBank.withdraw -->
-<g id="node3" class="node" pointer-events="visible" data-name="KipuBank.withdraw">
+<!-- KipuBank._safeTransfer -->
+<g id="node3" class="node" pointer-events="visible" data-name="KipuBank._safeTransfer">
 
-<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="83.53" cy="-88" rx="47.52" ry="18" style=""/>
-<text text-anchor="middle" x="83.53" y="-83.8" font-family="Times,serif" font-size="14.00" style="">withdraw</text>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="305.52" cy="-88" rx="64.23" ry="18" style=""/>
+<text text-anchor="middle" x="305.52" y="-83.8" font-family="Times,serif" font-size="14.00" style="">_safeTransfer</text>
 </g>
 <!-- KipuBank.payable -->
-<g id="node5" class="node" pointer-events="visible" data-name="KipuBank.payable">
+<g id="node6" class="node" pointer-events="visible" data-name="KipuBank.payable">
 
-<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="228.12" cy="-88" rx="41.13" ry="18" style=""/>
-<text text-anchor="middle" x="228.12" y="-83.8" font-family="Times,serif" font-size="14.00" style="">payable</text>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="446.7" cy="-88" rx="41.13" ry="18" style=""/>
+<text text-anchor="middle" x="446.7" y="-83.8" font-family="Times,serif" font-size="14.00" style="">payable</text>
 </g>
-<!-- KipuBank.withdraw&#45;&gt;KipuBank.payable -->
-<g id="edge1" class="edge" data-name="KipuBank.withdraw-&gt;KipuBank.payable">
+<!-- KipuBank._safeTransfer&#45;&gt;KipuBank.payable -->
+<g id="edge1" class="edge" data-name="KipuBank._safeTransfer-&gt;KipuBank.payable">
 
-<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M132.4,-88C145.39,-88 159.54,-88 172.85,-88" style=""/>
-<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="172.78,-91.5 182.78,-88 172.78,-84.5 172.78,-91.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M371.22,-88C377.96,-88 384.77,-88 391.39,-88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="391.18,-91.5 401.18,-88 391.18,-84.5 391.18,-91.5" style=""/>
 </g>
-<!-- KipuBank.getBalance -->
-<g id="node4" class="node" pointer-events="visible" data-name="KipuBank.getBalance">
+<!-- KipuBank.kipubank_withdraw -->
+<g id="node4" class="node" pointer-events="visible" data-name="KipuBank.kipubank_withdraw">
 
-<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="83.53" cy="-34" rx="53.86" ry="18" style=""/>
-<text text-anchor="middle" x="83.53" y="-29.8" font-family="Times,serif" font-size="14.00" style="">getBalance</text>
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="110.7" cy="-88" rx="88.06" ry="18" style=""/>
+<text text-anchor="middle" x="110.7" y="-83.8" font-family="Times,serif" font-size="14.00" style="">kipubank_withdraw</text>
+</g>
+<!-- KipuBank.kipubank_withdraw&#45;&gt;KipuBank._safeTransfer -->
+<g id="edge2" class="edge" data-name="KipuBank.kipubank_withdraw-&gt;KipuBank._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M200.21,-88C209.19,-88 218.26,-88 227.11,-88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="226.85,-91.5 236.85,-88 226.85,-84.5 226.85,-91.5" style=""/>
+</g>
+<!-- KipuBank.kipubank_getBalance -->
+<g id="node5" class="node" pointer-events="visible" data-name="KipuBank.kipubank_getBalance">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="110.7" cy="-34" rx="94.9" ry="18" style=""/>
+<text text-anchor="middle" x="110.7" y="-29.8" font-family="Times,serif" font-size="14.00" style="">kipubank_getBalance</text>
 </g>
 <!-- key -->
-<g id="node6" class="node" pointer-events="visible" data-name="key">
+<g id="node7" class="node" pointer-events="visible" data-name="key">
 
-<polygon fill="#edad56" stroke="none" stroke-width="3" points="148.53,-351 18.53,-351 18.53,-263 148.53,-263 148.53,-351" style=""/>
-<text text-anchor="start" x="68.16" y="-332.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
-<text text-anchor="start" x="64.27" y="-312.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
-<text text-anchor="start" x="41.73" y="-292.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
-<text text-anchor="start" x="28.13" y="-272.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="175.7,-351 45.7,-351 45.7,-263 175.7,-263 175.7,-351" style=""/>
+<text text-anchor="start" x="95.34" y="-332.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="91.45" y="-312.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="68.9" y="-292.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="55.3" y="-272.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
 </g>
 <!-- key2 -->
-<g id="node7" class="node" pointer-events="visible" data-name="key2">
+<g id="node8" class="node" pointer-events="visible" data-name="key2">
 
-<polygon fill="#edad56" stroke="none" stroke-width="3" points="255.12,-351 201.12,-351 201.12,-263 255.12,-263 255.12,-351" style=""/>
-<text text-anchor="start" x="218.12" y="-332.4" font-family="Times,serif" font-size="14.00" style="">   </text>
-<text text-anchor="start" x="218.12" y="-312.4" font-family="Times,serif" font-size="14.00" style="">   </text>
-<polygon fill="#445773" stroke="none" points="216.12,-287 216.12,-307 241.12,-307 241.12,-287 216.12,-287" style=""/>
-<text text-anchor="start" x="218.12" y="-292.4" font-family="Times,serif" font-size="14.00" style="">   </text>
-<polygon fill="none" stroke="#e8726d" points="218.12,-269 218.12,-285 239.12,-285 239.12,-269 218.12,-269" style=""/>
-</g>
-<!-- key&#45;&gt;key2 -->
-<g id="edge2" class="edge" data-name="key-&gt;key2">
-
-<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M141.53,-337C169.51,-337 179.53,-337 202.32,-337" style=""/>
-<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="202.09,-340.5 212.09,-337 202.09,-333.5 202.09,-340.5" style=""/>
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="332.52,-351 278.52,-351 278.52,-263 332.52,-263 332.52,-351" style=""/>
+<text text-anchor="start" x="295.52" y="-332.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="295.52" y="-312.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="293.52,-287 293.52,-307 318.52,-307 318.52,-287 293.52,-287" style=""/>
+<text text-anchor="start" x="295.52" y="-292.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="295.52,-269 295.52,-285 316.52,-285 316.52,-269 295.52,-269" style=""/>
 </g>
 <!-- key&#45;&gt;key2 -->
 <g id="edge3" class="edge" data-name="key-&gt;key2">
 
-<path fill="none" stroke="white" stroke-width="2" d="M141.53,-317C169.51,-317 179.53,-317 202.32,-317" style=""/>
-<polygon fill="white" stroke="white" stroke-width="2" points="202.09,-320.5 212.09,-317 202.09,-313.5 202.09,-320.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M168.7,-337C219.22,-337 234.95,-337 279.76,-337" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="279.49,-340.5 289.49,-337 279.49,-333.5 279.49,-340.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge4" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M168.7,-317C219.22,-317 234.95,-317 279.76,-317" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="279.49,-320.5 289.49,-317 279.49,-313.5 279.49,-320.5" style=""/>
 </g>
 </g>
 </svg>
