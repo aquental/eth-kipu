@@ -60,3 +60,5 @@ Solution:
 
 - [source code](./solidity/KipuBank.sol)
 - [sepolia contract](https://sepolia.etherscan.io/address/0x17CF484a01228Da3c863703d3813d5A0bceAeB1f#code)
+
+![image](./img/kipubank.svg)
