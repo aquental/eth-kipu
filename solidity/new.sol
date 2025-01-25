@@ -64,3 +64,4 @@ contract BellumGalaxy {
     ///view & pure///
     /////////////////
 }
+
