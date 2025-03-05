@@ -1,8 +1,16 @@
 # eth-kipu
 
-ETH-KIPU - [Module 1: Intro to Smart Contracts](https://campus.ethkipu.org/course/view.php?id=19)
+<details>
+<summary>Module 1</summary>
+    
+[Intro to Smart Contracts](https://campus.ethkipu.org/course/view.php?id=19)
 
-ETH-KIPU - [Module 2: Solidity Fundamentals](https://campus.ethkipu.org/course/view.php?id=20)
+</details>
+
+<details>
+<summary>Module 2</summary>
+
+[Solidity Fundamentals](https://campus.ethkipu.org/course/view.php?id=20)
 
 ```
 Requisitos de Desenvolvimento
@@ -66,6 +74,11 @@ Solution:
 
 ![image](./img/kipubank.svg)
 
+</details>
 
-ETH-KIPU - [Module 3: Padrões, bibliotecas e padrões](https://campus.ethkipu.org/course/view.php?id=21)
+<details>
+<summary>Module 3</summary>
+    
+[Padrões, bibliotecas e padrões](https://campus.ethkipu.org/course/view.php?id=21)
 
+</details>
