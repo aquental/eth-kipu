@@ -63,3 +63,7 @@ Solution:
 - [sepolia contract/Sourcify](https://repo.sourcify.dev/contracts/full_match/11155111/0x6c003fb34F4c4B8d55572AeB3C79c65c6EC04169/sources/)
 
 ![image](./img/kipubank.svg)
+
+
+ETH-KIPU - [Module 3: Padrões, bibliotecas e padrões](https://campus.ethkipu.org/course/view.php?id=21)
+
