@@ -1,5 +1,7 @@
 # eth-kipu
 
+ETH-KIPU - [Module 1: Intro to Smart Contracts](https://campus.ethkipu.org/course/view.php?id=19)
+
 ETH-KIPU - [Module 2: Solidity Fundamentals](https://campus.ethkipu.org/course/view.php?id=20)
 
 ```
