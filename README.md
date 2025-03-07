@@ -101,11 +101,19 @@ OBS: o contrato pode ter multiplos BURNERS e MINTERS. Mas o ADMIN é único.
 
 Dica: *Desenvolvedores de Software trabalham extremamente duro para ser extremamente [...].* Acho que não preciso repetir, mas BOAS PRÁTICAS são a base do seu sucesso.
 
-Prazo de Entrega: *08/03/2025*
+Prazo de Entrega: 08/03/2025
 ```
 
-- 1 Contrato ERC20 [solution](solidity/m3-erc20.sol)
-- 1 Contrato ERC721 [solution](solidity/m3-erc721.sol)
+Contrato ERC20:
 
+> [solution](solidity/m3-erc20.sol)
+>
+> [sepolia contract](solidity/m3-erc20.sol)
+
+Contrato ERC721
+
+> [solution](solidity/m3-erc721.sol)
+>
+> [sepolia contract](solidity/m3-erc20.sol)
 
 </details>
