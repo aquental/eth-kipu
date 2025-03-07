@@ -99,8 +99,6 @@ Controle de Acesso:
 
 OBS: o contrato pode ter multiplos BURNERS e MINTERS. Mas o ADMIN é único.
 
-Dica: *Desenvolvedores de Software trabalham extremamente duro para ser extremamente [...].* Acho que não preciso repetir, mas BOAS PRÁTICAS são a base do seu sucesso.
-
 Prazo de Entrega: 08/03/2025
 ```
 
