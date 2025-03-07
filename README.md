@@ -81,4 +81,27 @@ Solution:
     
 [Padrões, bibliotecas e padrões](https://campus.ethkipu.org/course/view.php?id=21)
 
+```
+Trago duas atividades para vocês, essas atividades serão consideradas como conclusão do módulo 3.
+
+Essas atividades são:
+- 1 Contrato ERC20
+- 1 Contrato ERC721
+
+Vocês seguirão o padrão OpenZeppelin, mas ambos os contratos precisam possuir:
+Funções Públicas Adicionais:
+- Função `mint`
+- Função `burn`
+Controle de Acesso:
+- Gargo MINTER - para endereços que possam criar tokens
+- Cargo BURNER - para endereços que podem queimar tokens
+- Cargo ADMIN - para endereços que podem alterar quem é o MINTER e quem é o BURNER.
+
+OBS: o contrato pode ter multiplos BURNERS e MINTERS. Mas o ADMIN é único.
+
+Dica: *Desenvolvedores de Software trabalham extremamente duro para ser extremamente [...].* Acho que não preciso repetir, mas BOAS PRÁTICAS são a base do seu sucesso.
+
+Prazo de Entrega: *08/03/2025*
+```
+
 </details>
