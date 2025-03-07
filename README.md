@@ -104,4 +104,8 @@ Dica: *Desenvolvedores de Software trabalham extremamente duro para ser extremam
 Prazo de Entrega: *08/03/2025*
 ```
 
+- 1 Contrato ERC20 [solution](solidity/m3-erc20.sol)
+- 1 Contrato ERC721 [solution](solidity/m3-erc721.sol)
+
+
 </details>
