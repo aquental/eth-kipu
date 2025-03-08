@@ -110,8 +110,8 @@ Contrato ERC20:
 
 Contrato ERC721
 
-> [solution](solidity/m3-erc721.sol)
+> [solution](solidity/m3-erc721.sol) - [verified contract](https://sepolia.etherscan.io/address/0x6dAB69DcF4E9768466f7460CD4d00cFf2E92e7E2#code)
 >
-> [sepolia contract](solidity/m3-erc20.sol)
+> [sepolia contract](solidity/m3-erc20.sol) - [verified contract]()
 
 </details>
