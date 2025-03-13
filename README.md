@@ -113,7 +113,7 @@ Contrato ERC721
 > [solution](solidity/m3-erc721.sol) - [verified contract](https://sepolia.etherscan.io/address/0x6dAB69DcF4E9768466f7460CD4d00cFf2E92e7E2#code)
 >
 > [sepolia contract](solidity/m3-erc20.sol) - [verified contract](https://sepolia.etherscan.io/address/0xeB3ed3E8E53F41666C2f70adADeB7A2cF7145ffC#code)
->
-> Foundry version: [...]
+
+Foundry version: [...]
 
 </details>
