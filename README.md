@@ -125,7 +125,7 @@ Foundry version: [...]
 
 [Assignment](https://campus.ethkipu.org/mod/assign/view.php?id=400)
 
-- Contract into a professional development environment such as Hardhat, Foundry, or ScaffoldEth.
+- Contract into a professional development environment: Foundry and ScaffoldEth.
 - Unit tests: [Foundry KipuBank.t.sol](module4/kipu-forge/test/KipuBank.t.sol)
 - Contract deployed and validated : [Etherescan](https://sepolia.etherscan.io/address/0x232594f4b20bad02db21b21451570a5aef98af00#code)
 - Front-end interface [Scaffold-Eth](module4/kipu-scaffold/README.md).
