@@ -60,19 +60,6 @@ contract KipuBankTest is Test {
     }
 
     // Test 3: Deposit Exceeds Bank Cap
-    /*
-    function testDepositExceedsBankCap() public {
-        uint256 depositAmount = BANK_CAP + 1 ether;
-
-        vm.prank(user1);
-        //vm.expectRevert("Deposit exceeds bank cap");
-        //kipuBank.kipubank_deposit{value: depositAmount}();
-        vm.expectRevert(
-            abi.encodeWithSignature("Error(string)", "Deposit exceeds bank cap")
-        );
-        kipuBank.kipubank_deposit{value: depositAmount}();
-    }
-    */
     function testDepositExceedsBankCap() public {
         uint256 depositAmount = BANK_CAP + 1 ether;
         vm.expectRevert(
