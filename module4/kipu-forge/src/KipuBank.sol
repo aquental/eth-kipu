@@ -17,37 +17,26 @@ contract KipuBank {
     }
 
     function kipubank_deposit() public payable {
-        require(
-            msg.value + address(this).balance <= i_bankCap,
-            "Deposit exceeds bank cap"
-        );
+        require(msg.value + address(this).balance <= i_bankCap, "Deposit exceeds bank cap");
         s_balances[msg.sender] += msg.value;
         emit Deposit(msg.sender, msg.value);
     }
 
     function _safeTransfer(uint256 _amount, address _to) internal {
-        (bool success, ) = payable(_to).call{value: _amount}(""); // realiza a transferência via call
+        (bool success,) = payable(_to).call{value: _amount}(""); // realiza a transferência via call
         require(success, "Transfer failed");
     }
 
     function kipubank_withdraw(uint256 _amount) public {
         require(s_balances[msg.sender] >= _amount, "Insufficient balance");
-        require(
-            _amount <= c_MAX_WITHDRAWAL,
-            "Withdrawal exceeds maximum limit"
-        );
+        require(_amount <= c_MAX_WITHDRAWAL, "Withdrawal exceeds maximum limit");
         s_balances[msg.sender] -= _amount;
         _safeTransfer(_amount, msg.sender);
         emit Withdrawal(msg.sender, _amount);
     }
 
-    function kipubank_getBalance(
-        address _account
-    ) public view returns (uint256) {
-        require(
-            (msg.sender == _account || msg.sender == i_owner),
-            "Only owner or account holder can view balance"
-        );
+    function kipubank_getBalance(address _account) public view returns (uint256) {
+        require((msg.sender == _account || msg.sender == i_owner), "Only owner or account holder can view balance");
         return s_balances[_account];
     }
     //TODO: implement modifier
