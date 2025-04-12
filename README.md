@@ -123,19 +123,11 @@ Foundry version: [...]
     
 [Toolkit de desenvolvimento web3](https://campus.ethkipu.org/course/view.php?id=22)
 
-- Form a team of 3 people.
-- Import the contracts created in the previous module (Marketplace or Staking) into a professional development environment such as Hardhat, Foundry, or ScaffoldEth.
-- Write unit tests for at least 3 main functionalities.
-- Deploy the contracts and validate them in Etherescan.
-- Create a front-end interface using wagmi, viem, or ethers.js to interact with at least one main functionality.
-- Present the result on GitHub (a GitHub where everyone contributes, a fork per person, or an individual repository per person).
-- The GitHub must have a readme with a link to the validated contract(s) and the names of the team members with a link to each of their GitHub profiles.
-
 [Assignment](https://campus.ethkipu.org/mod/assign/view.php?id=400)
 
-```
-
-
-```
+- Contract into a professional development environment such as Hardhat, Foundry, or ScaffoldEth.
+- Unit tests: [Foundry KipuBank.t.sol](module4/kipu-forge/test/KipuBank.t.sol)
+- Contract deployed and validated : [Etherescan]()
+- Front-end interface [Scaffold-Eth](module4/kipu-scaffold/README.md).
 
 </details>
