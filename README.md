@@ -121,7 +121,7 @@ Foundry version: [...]
 <details>
 <summary>Module 4</summary>
     
-[Toolkit de desenvolvimento web3](https://campus.ethkipu.org/course/view.php?id=22)
+[Web3 Development Toolkit](https://campus.ethkipu.org/course/view.php?id=22)
 
 [Assignment](https://campus.ethkipu.org/mod/assign/view.php?id=400)
 
@@ -129,5 +129,14 @@ Foundry version: [...]
 - Unit tests: [Foundry KipuBank.t.sol](module4/kipu-forge/test/KipuBank.t.sol)
 - Contract deployed and validated : [Etherescan](https://sepolia.etherscan.io/address/0x232594f4b20bad02db21b21451570a5aef98af00#code)
 - Front-end interface [Scaffold-Eth](module4/kipu-scaffold/README.md).
+
+</details>
+
+<details>
+<summary>Module 5</summary>
+
+[Security, Testing and Auditing](https://campus.ethkipu.org/course/view.php?id=23)
+
+[Assignment]()
 
 </details>
