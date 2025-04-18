@@ -16,6 +16,10 @@ The activity must be handed in by April 18th.
 
 ## Deliverables
 
-- [ ] Submission of a link to a thread on X, article on LinkedIn, etc. with information about the vulnerability, code examples, impact caused and ways to mitigate the risk.
+- [x] Submission of a link to a thread on X, article on LinkedIn, etc. with information about the vulnerability, code examples, impact caused and ways to mitigate the risk.
 
-- [ ] The publication must be marked by ETHKipu, ERC55 and 77InnovationLabs.
+- [x] The publication must be marked by ETHKipu, ERC55 and 77InnovationLabs.
+
+---
+
+### [Link to Medium](https://medium.com/@antonio.quental/defis-weak-links-top-10-solidity-vulnerabilities-and-how-to-stop-them-62deea1d1d20)
