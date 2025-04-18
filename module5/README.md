@@ -23,3 +23,5 @@ The activity must be handed in by April 18th.
 ---
 
 ### [Link to Medium](https://medium.com/@antonio.quental/defis-weak-links-top-10-solidity-vulnerabilities-and-how-to-stop-them-62deea1d1d20)
+
+#### [twitter post](https://x.com/antonioquental/status/1913323477559357608)
